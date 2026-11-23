@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" alt="Coding" width="300" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Christian+Bodziack+Dainez;Desenvolvedor+Full-Stack;Analista+de+Sistemas;Estagi%C3%A1rio+TI+%40+CRCPR;Graduando+ADS+%40+PUCPR" alt="Typing Animation" />
 </p>
 
@@ -25,6 +29,10 @@ $ cat ~/profile/about.txt
 ▸ Foco: sistemas modernos, interfaces acessíveis, arquiteturas escaláveis
 ▸ Stack principal: PHP/Laravel, Livewire, React, Python, MySQL/PostgreSQL
 ```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer.gif" alt="Developer" width="250" />
+</p>
 
 ---
 
@@ -64,6 +72,12 @@ $ tree ~/workspace/stack --dirsfirst
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/terminal.gif" alt="Terminal" width="350" />
+</p>
+
+---
+
 ### 🚀  `projects.json`  —  Projetos em Destaque
 
 ```bash
@@ -76,6 +90,10 @@ $ ls -la ~/github/estgchristian-code/ --featured
 | **Web Chess** | Projeto de xadrez para navegador | `TypeScript` `React` | [github.com/estgchristian-code/web-chess](https://github.com/estgchristian-code/web-chess) |
 | **Dashboard Arquivos Web** | Projeto de dashboard Web | `HTML` `CSS` `JavaScript` | [github.com/estgchristian-code/dashboard-arquivos-web](https://github.com/estgchristian-code/dashboard-arquivos-web) |
 | **Conversor de Arquivos** | Conversor de arquivos pela Web | `TypeScript` `React` | [github.com/estgchristian-code/conversor-arquivos-web](https://github.com/estgchristian-code/conversor-arquivos-web) |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/webdev.gif" alt="Web Development" width="280" />
+</p>
 
 ---
 
@@ -98,6 +116,12 @@ $ cat ~/var/log/experience.log
                 ▸ Engenharia de software, banco de dados, desenvolvimento de sistemas
                 ▸ Foco: arquitetura limpa, testes, padrões de projeto
 ```
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/computer.gif" alt="Computer" width="250" />
+</p>
 
 ---
 
