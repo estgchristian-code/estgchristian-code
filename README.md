@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" alt="Coding" width="300" />
+  <img src="./assets/gifs/coding.gif" alt="Coding" width="300" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ $ cat ~/profile/about.txt
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer.gif" alt="Developer" width="250" />
+  <img src="./assets/gifs/developer.gif" alt="Developer" width="250" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ $ tree ~/workspace/stack --dirsfirst
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/terminal.gif" alt="Terminal" width="350" />
+  <img src="./assets/gifs/terminal.gif" alt="Terminal" width="350" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ $ ls -la ~/github/estgchristian-code/ --featured
 | **Conversor de Arquivos** | Conversor de arquivos pela Web | `TypeScript` `React` | [github.com/estgchristian-code/conversor-arquivos-web](https://github.com/estgchristian-code/conversor-arquivos-web) |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/webdev.gif" alt="Web Development" width="280" />
+  <img src="./assets/gifs/webdev.gif" alt="Web Development" width="280" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ $ cat ~/var/log/experience.log
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/computer.gif" alt="Computer" width="250" />
+  <img src="./assets/gifs/computer.gif" alt="Computer" width="250" />
 </p>
 
 ---
