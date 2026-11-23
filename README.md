@@ -72,5 +72,9 @@ Atuo no desenvolvimento e manutenção de aplicações Web, com experiência em 
 ```bash
 $ echo "Obrigado pela visita!"
 ```
+## 🐍 Contribuições
 
+![Snake animation](https://raw.githubusercontent.com/estgchristian-code/estgchristian-code/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://raw.githubusercontent.com/estgchristian-code/estgchristian-code/output/github-contribution-grid-snake-dark.svg)
 
