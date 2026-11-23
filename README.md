@@ -86,13 +86,13 @@ $ cat ~/var/log/experience.log
 ```
 
 ```text
-[2024-PRESENT]  Estagiário de Tecnologia da Informação (TI)
+[2026-PRESENT]  Estagiário de Tecnologia da Informação (TI)
                 Conselho Regional de Contabilidade do Paraná (CRCPR)
                 Paraná, Brasil
                 ▸ Desenvolvimento e manutenção de aplicações Web internas
                 ▸ Stack: PHP/Laravel, Livewire, MySQL, Docker, Git
 
-[2023-PRESENT]  Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)
+[2025-PRESENT]  Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)
                 PUCPR — Pontifícia Universidade Católica do Paraná
                 Paraná, Brasil
                 ▸ Engenharia de software, banco de dados, desenvolvimento de sistemas
