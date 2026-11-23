@@ -1,63 +1,142 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:11161f,100:161c28&height=180&section=header&text=christian@dev:~&fontSize=36&fontColor=00e5ff&fontAlignY=35&desc=Christian%20Bodziack%20Dainez%20%7C%20Backend%20%26%20Software%20Developer&descAlignY=58&descAlign=50&descSize=15&descColor=8b9bb4&animation=fadeIn" alt="Banner Christian Bodziack Dainez" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:11161f,100:161c28&height=180&section=header&text=christian@dev%3A~%2Fprofile&fontSize=36&fontColor=00e5ff&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%7C%20Analista%20de%20Sistemas&descAlignY=55&descAlign=50&descSize=16&descColor=8b9bb4&animation=fadeIn&fontAlign=50" alt="Terminal Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Christian+Bodziack+Dainez;Backend+%26+Full-Stack+Developer;Estagi%C3%A1rio+de+TI+%40+CRCPR;ADS+%40+PUCPR+%7C+Curitiba+-+PR" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Christian+Bodziack+Dainez;Desenvolvedor+Full-Stack;Analista+de+Sistemas;Estagi%C3%A1rio+TI+%40+CRCPR;Graduando+ADS+%40+PUCPR" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-10b981?style=for-the-badge&logo=linux&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=10b981" alt="Status" />
-  <img src="https://img.shields.io/badge/LOCATION-Curitiba%2C_PR-00e5ff?style=for-the-badge&logo=openstreetmap&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=00e5ff" alt="Location" />
-  <img src="https://img.shields.io/badge/FOCUS-Backend_%26_APIs-3b82f6?style=for-the-badge&logo=python&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=3b82f6" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-10b981?style=for-the-badge&logo=linux&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=10b981" alt="System Online" />
+  <img src="https://img.shields.io/badge/LOCATION-Paran%C3%A1%2C_Brasil-00e5ff?style=for-the-badge&logo=map-pin&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=00e5ff" alt="Location" />
+  <img src="https://img.shields.io/badge/BRANCH-main%2A-3b82f6?style=for-the-badge&logo=git&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=3b82f6" alt="Branch" />
 </p>
 
 ---
 
-### 👋 About me
+```bash
+$ cat ~/profile/about.txt
+```
 
-Olá! Sou o **Christian Bodziack Dainez**, desenvolvedor em formação, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUCPR** e **Estagiário de TI / Desenvolvimento de Sistemas** no **Conselho Regional de Contabilidade do Paraná (CRCPR)**.
-
-- 💻 Tenho experiência prática no desenvolvimento de aplicações web (Full-Stack / Backend), criação e consumo de **APIs REST**, modelagem de bancos de dados relacionais e em nuvem, e integração de sistemas.
-- 🏛️ No **CRCPR** (desde março/2026), atuo no desenvolvimento de aplicação web interna para gestão de solicitações de serviços (manutenção, limpeza e cozinha) usando **PHP (Laravel 13)**, **Blade**, **Bootstrap**, **MySQL** e autenticação via **LDAP**, além de dashboard administrativo, calendário dinâmico, testes de homologação, manutenção de páginas institucionais e suporte técnico.
-- 🎓 Na **PUCPR** (3º semestre EAD, previsão de término em 2027), aplico na prática **Engenharia de Software**, **Programação Web**, **Sistemas de Informação**, **Algoritmos** e **Banco de Dados**.
-- 🎯 Meu objetivo é evoluir e consolidar minha trajetória profissional no desenvolvimento de software com foco em **Backend**, código limpo e soluções eficientes.
-- 🌐 Idiomas: **Português** (Nativo) e **Inglês** (Intermediário — leitura, escrita e conversação).
-
----
-
-### 🛠️ Competências & Tecnologias
-
-| Categoria | Tecnologias & Ferramentas |
-| :--- | :--- |
-| **Linguagens** | `Python` `PHP` `JavaScript` `Java` `SQL` `HTML5` `CSS3` `C / MicroPython` |
-| **Frameworks & Libs** | `Laravel 13` `Blade` `FastAPI` `SQLModel` `Bootstrap` |
-| **Bancos de Dados** | `MySQL` `PostgreSQL` `SQLite` `TiDB Cloud` `Firebase Firestore` |
-| **Ferramentas & Dev** | `Git` `GitHub` `Vercel` `Laragon` `DBeaver` `XAMPP` `VS Code` `Linux (Ubuntu)` `NAPS2 / TWAIN` |
-| **Protocolos & Outros** | `Autenticação LDAP` `APIs REST` `MQTT` `Blynk Cloud` `Wokwi` |
+```text
+▸ Estudante de Análise e Desenvolvimento de Sistemas na PUCPR
+▸ Estagiário de Tecnologia da Informação no CRCPR
+▸ Atuo no desenvolvimento e manutenção de aplicações Web
+▸ Foco: sistemas modernos, interfaces acessíveis, arquiteturas escaláveis
+▸ Stack principal: PHP/Laravel, Livewire, React, Python, MySQL/PostgreSQL
+```
 
 ---
 
-### 🚀 Projetos em Destaque
+### ⚙️  `stack.config`  —  Stack Tecnológica
 
-- **Sistema de Gestão de Solicitações de Serviços (CRCPR):** Aplicação web interna com **PHP (Laravel 13), Blade, Bootstrap, LDAP e MySQL** para organizar o fluxo de requisições de serviços internos, controle de acessos, calendário interativo e gerenciamento de status.
-- **Aplicação Web & Catálogo Digital — Confeitaria Norske:** Catálogo digital responsivo com **HTML5, CSS3, JavaScript, Firebase Firestore** (banco em nuvem em tempo real), envio direto de pedidos via **WhatsApp**, recursos de acessibilidade e deploy na **Vercel**.
-- **Estação IoT de Monitoramento (Simulação):** Simulação de estação IoT com **MicroPython** no **Wokwi**, transmissão de dados de sensores via **MQTT** e visualização em dashboard na **Blynk Cloud**.
-- **Projeto de Extensão Universitária — Inclusão Digital:** Documentação acadêmica e implementação técnica voltada à inclusão digital e aceleração de pequenos negócios locais, alinhada aos **ODS**.
+```bash
+$ tree ~/workspace/stack --dirsfirst
+```
+
+```text
+~/workspace/stack
+├── front-end/
+│   ├── JavaScript (ES6+)
+│   ├── TypeScript
+│   ├── React
+│   ├── HTML5 & CSS3
+│   └── Tailwind CSS
+├── back-end/
+│   ├── PHP & Laravel
+│   ├── Livewire
+│   ├── Python & FastAPI
+│   └── REST APIs
+├── dados-e-infra/
+│   ├── MySQL & PostgreSQL
+│   ├── SQLite
+│   ├── Docker
+│   ├── Git & GitHub
+│   ├── VS Code
+│   └── Vercel
+```
+
+| Categoria | Tecnologias | Proficiência |
+|---|---|---|
+| **Front-End** | `JavaScript` `TypeScript` `React` `Tailwind CSS` `HTML5` `CSS3` | ████████░░ 88% |
+| **Back-End** | `PHP` `Laravel` `Livewire` `Python` `FastAPI` `REST APIs` | █████████░ 92% |
+| **Dados & Infra** | `MySQL` `PostgreSQL` `SQLite` `Docker` `Git` `VS Code` | ████████░░ 85% |
 
 ---
 
-### 📫 Contato
+### 🚀  `projects.json`  —  Projetos em Destaque
+
+```bash
+$ ls -la ~/github/estgchristian-code/ --featured
+```
+
+| Projeto | Descrição | Stack | Repositório |
+|---|---|---|---|
+| **Devfolio** | Portfólio pessoal de desenvolvimento Web | `HTML` `CSS` `JavaScript` `Tailwind` | [github.com/estgchristian-code/Devfolio](https://github.com/estgchristian-code/Devfolio) |
+| **Web Chess** | Projeto de xadrez para navegador | `TypeScript` `React` | [github.com/estgchristian-code/web-chess](https://github.com/estgchristian-code/web-chess) |
+| **Dashboard Arquivos Web** | Projeto de dashboard Web | `HTML` `CSS` `JavaScript` | [github.com/estgchristian-code/dashboard-arquivos-web](https://github.com/estgchristian-code/dashboard-arquivos-web) |
+| **Conversor de Arquivos** | Conversor de arquivos pela Web | `TypeScript` `React` | [github.com/estgchristian-code/conversor-arquivos-web](https://github.com/estgchristian-code/conversor-arquivos-web) |
+
+---
+
+### 💼  `experience.log`  —  Experiência & Formação
+
+```bash
+$ cat ~/var/log/experience.log
+```
+
+```text
+[2024-PRESENT]  Estagiário de Tecnologia da Informação (TI)
+                Conselho Regional de Contabilidade do Paraná (CRCPR)
+                Paraná, Brasil
+                ▸ Desenvolvimento e manutenção de aplicações Web internas
+                ▸ Stack: PHP/Laravel, Livewire, MySQL, Docker, Git
+
+[2023-PRESENT]  Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)
+                PUCPR — Pontifícia Universidade Católica do Paraná
+                Paraná, Brasil
+                ▸ Engenharia de software, banco de dados, desenvolvimento de sistemas
+                ▸ Foco: arquitetura limpa, testes, padrões de projeto
+```
+
+---
+
+### 📫  `.env.contact`  —  Contato
+
+```bash
+$ cat ~/config/.env.contact
+```
+
+```dotenv
+GITHUB_USER=estgchristian-code
+GITHUB_URL=https://github.com/estgchristian-code
+LINKEDIN_USER=Christian Bodziack Dainez
+LINKEDIN_URL=https://www.linkedin.com/in/christian-bodziack-dainez-b59418254/
+LOCATION=Paraná, Brasil
+STATUS=Open to opportunities
+```
 
 <p align="center">
-  <a href="https://github.com/estgchristian-code">
-    <img src="https://img.shields.io/badge/GitHub-estgchristian--code-00e5ff?style=for-the-badge&logo=github&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=00e5ff" alt="GitHub" />
+  <a href="https://github.com/estgchristian-code" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-estgchristian_code-00e5ff?style=for-the-badge&logo=github&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=00e5ff" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/christian-bodziack-dainez-b59418254/">
+  <a href="https://www.linkedin.com/in/christian-bodziack-dainez-b59418254/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Christian_Bodziack_Dainez-3b82f6?style=for-the-badge&logo=linkedin&logoColor=0a0d12&labelColor=161c28&colorA=161c28&colorB=3b82f6" alt="LinkedIn" />
   </a>
 </p>
 
-- 📍 **Localização:** Curitiba — PR, Brasil
-- 📧 **E-mail:** `christianbodziackdainez@gmail.com` *(confirme entre `.com` e `.co` antes de publicar)*
-- 📱 **Telefone:** `(41) 99897-3995`
+---
+
+```bash
+$ echo "Obrigado pela visita! 🚀"
+```
+
+```text
+Obrigado pela visita!
+```
+
+---
+
+<p align="center">
+  <sub>Built with <span style="color:#00e5ff">▊</span> HTML <span style="color:#3b82f6">▊</span> CSS <span style="color:#10b981">▊</span> JavaScript · <a href="https://github.com/estgchristian-code/Devfolio" target="_blank" style="color:#00e5ff">Devfolio</a> aesthetic</sub>
+</p>
